@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@900&display=swap');
+
+.App {
+  text-align: center;
+  margin-left: 3rem;
+  margin-right: 3rem;;
+}
+
+.home {
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+.capitol-img {
+  width: 99.9%;
+  background-repeat: no-repeat;
+}
+
+h2 {
+  margin-top: 8px;
+}
+
